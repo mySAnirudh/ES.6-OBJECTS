@@ -1,0 +1,30 @@
+
+
+    ***** OBJECTS *****
+
+    ES6 - Objects. JavaScript supports extending data types. JavaScript 
+    objects are a great way to define custom data types. An object is an 
+    instance which contains a set of key value pairs. Unlike primitive data
+     types, objects can represent multiple or complex values and can change
+      over their life time.
+
+
+    **** JavaScript ES6 Objects
+
+Creating Objects. Constructor functions optionally accept parameters. ...
+Accessing Object Properties
+Changing Object Properties
+Adding Object Properties
+Deleting Object Properties
+Comparing Objects. In JavaScript, each object you create points to a different memory address.
+Cloning Objects
+ES6 Shortcuts
+Conclusion
+
+
+JavaScript supports extending data types. JavaScript objects are a great way to define 
+custom data types.
+An object is an instance which contains a set of key value pairs. Unlike primitive data 
+types, objects can represent multiple or complex values and can change over their life 
+time. The values can be scalar values or functions or even array of other objects.
+The syntactic variations for defining an object is discussed further.
